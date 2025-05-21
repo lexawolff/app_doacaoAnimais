@@ -2,6 +2,13 @@
 
 Aplicativo mobile para adoção de animais desenvolvido com React Native e Expo.
 
+## Alunos
+- Alexsandra Oliveira de Jesus
+- Ana Karolini Blooemer Noth
+- Julia Petrucci dos Santos
+- Thalita Pereira Alfonso
+- Henrique Carvalho Silva
+
 ## Estrutura do Projeto
 
 ```
