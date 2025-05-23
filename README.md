@@ -2,7 +2,7 @@
 
 Aplicativo mobile para adoção de animais desenvolvido com React Native e Expo.<br>
 
-Documentação do projeto pode ser encontrada [nesse documento](./documentacao.pdf)<br>
+Documentação do projeto pode ser encontrada em [documentacao.pdf](./documentacao.pdf) na raiz desse repositório<br>
 
 ## Alunos Desenvolvedores
 
@@ -22,13 +22,12 @@ Documentação do projeto pode ser encontrada [nesse documento](./documentacao.p
 
 ## Modelo físico do banco de Dados
 
-As principais entidades com seus atributos, os relacionamentos entre elas, foram identificadas e descritas [nesse documento (clique aqui)](./modelofisicobd/DER.docx), 
+As principais entidades com seus atributos, os relacionamentos entre elas, foram identificadas e descritas em [modelofisicobd/DER.docx](./modelofisicobd/DER.docx) desse repositório. 
 
 E abaixo o Diagrama Entidade-Relacionamento (DER):
 
 ![DER](./modelofisicobd/DER.png)<br>
 
-OBS: Caso ocorra problemas de exibição, os arquivos encontram-se na pasta [modelofisicobd](./modelofisicobd/) desse repositório.
 
 ## Protótipo
 
@@ -44,9 +43,7 @@ OBS: Caso ocorra problema de exibição, verificar o arquivo [lp.jpg](./lp.jpg) 
 
 ## Demonstração de uso da aplicação
 
-Um video demonstrativo exibindo o uso e a funcionalidade da aplicação pode ser encontrado [nesse link (clique aqui)](./media/demo.mp4)
-
-OBS: Caso ocorra problemas para cessar, verificar o arquivo demo.mp4 na pasta [media](./media/) desse repositório.
+Um video demonstrativo exibindo o uso e a funcionalidade da aplicação pode ser encontrado em [/media/demo.mp4](./media/demo.mp4) desse repositório
 
 
 
