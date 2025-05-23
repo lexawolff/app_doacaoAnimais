@@ -137,7 +137,7 @@ OBS: Caso ocorra problema de exibição, verificar o arquivo [lp.jpg](./lp.jpg) 
 
 ## Demonstração de uso da aplicação
 
-Um video demonstrativo exibindo o uso e a funcionalidade da aplicação pode ser encontrado em [/media/demo.mp4](./media/demo.mp4) desse repositório
+Um video demonstrativo exibindo o uso e a funcionalidade da aplicação pode ser encontrado em [/media/demo.mp4](./media/demo.mp4) desse repositório.
 
 
 
