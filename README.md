@@ -22,7 +22,7 @@ Documentação do projeto pode ser encontrada em [documentacao.pdf](./documentac
 
 ## Modelo físico do banco de Dados
 
-As principais entidades com seus atributos, os relacionamentos entre elas, e o diagrama entidade relacionamento (der) se encontram tanto abaixo, quanto em [modelofisicobd/DER.docx](./modelofisicobd/DER.docx) desse repositório. 
+As principais entidades com seus atributos, os relacionamentos entre elas, e o Diagrama de Entidade Relacional (DER) se encontram tanto abaixo, quanto em [modelofisicobd/DER.docx](./modelofisicobd/DER.docx) desse repositório. 
 
 <h3>Entidade</h3>
 
@@ -116,7 +116,7 @@ As principais entidades com seus atributos, os relacionamentos entre elas, e o d
     • Animal-Localização: Cada animal está vinculado a uma localidade. (1:1)
 
 
-<h3>Diagrama Entidade Relacionamento (DER)</h3>
+<h3>Diagrama de Entidade Relacional (DER)</h3>
 
 
 
